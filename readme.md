@@ -45,12 +45,18 @@ This repo already comes with all the files built and ready to go, but can also b
 2) Install [Sass](http://sass-lang.com/)
 
     $ gem install sass
+ 
+3) Install sfnt2woff
 
-3) Add or subtract files from the `src/` folder you'd like to be apart of the font files.
+    # On Linux
+    $ wget http://people.mozilla.com/~jkew/woff/woff-code-latest.zip
+    $ unzip woff-code-latest.zip -d sfnt2woff && cd sfnt2woff && make && sudo mv sfnt2woff /usr/local/bin/
 
-4) Modify any settings in the `builder/manifest.json` file. You can change the name of the font-family and CSS classname prefix.
+4) Add or subtract files from the `src/` folder you'd like to be apart of the font files.
 
-5) Run the build command:
+5) Modify any settings in the `builder/manifest.json` file. You can change the name of the font-family and CSS classname prefix.
+
+6) Run the build command:
 
     python ./builder/generate.py
 
