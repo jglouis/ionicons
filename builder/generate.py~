@@ -206,6 +206,7 @@ def generate_cheatsheet(data):
 
 def generate_component_json(data):
   print "Generate component.json"
+  print data['name']
 
   d = {
     "name": data['name'],

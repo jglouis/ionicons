@@ -118,7 +118,7 @@ for dirname, dirnames, filenames in os.walk(INPUT_SVG_DIR):
     if AUTO_WIDTH:
       f.autoWidth(0, 0, 512)
 
-  fontfile = '%s/sjjbicons' % (OUTPUT_FONT_DIR)
+  fontfile = '%s/testicons' % (OUTPUT_FONT_DIR)
 
 build_hash = m.hexdigest()
 

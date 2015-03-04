@@ -3,17 +3,17 @@
     "development": {},
     "version": "2.0.1",
     "styles": [
-        "css/ionicons.css"
+        "css/sjjbicons.css"
     ],
-    "name": "Ionicons",
+    "name": "SjjbIcons",
     "dependencies": {},
     "keywords": [],
     "license": "MIT",
     "fonts": [
-        "fonts/ionicons.eot",
-        "fonts/ionicons.svg",
-        "fonts/ionicons.ttf",
-        "fonts/ionicons.woff"
+        "fonts/sjjbicons.eot",
+        "fonts/sjjbicons.svg",
+        "fonts/sjjbicons.ttf",
+        "fonts/sjjbicons.woff"
     ],
     "description": "The premium icon font for Ionic Framework."
 }
