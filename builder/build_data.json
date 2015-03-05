@@ -14,14 +14,6 @@
       "name": "cafe"
     },
     {
-      "code": "0xf107",
-      "name": "drinkingtap"
-    },
-    {
-      "code": "0xf102",
-      "name": "fastfood"
-    },
-    {
       "code": "0xf105",
       "name": "fastfood2"
     },
@@ -30,23 +22,19 @@
       "name": "fastfood_pizza"
     },
     {
+      "code": "0xf10c",
+      "name": "hamburger"
+    },
+    {
       "code": "0xf100",
       "name": "ice_cream"
-    },
-    {
-      "code": "0xf108",
-      "name": "pizza"
-    },
-    {
-      "code": "0xf101",
-      "name": "pub"
     },
     {
       "code": "0xf103",
       "name": "restaurant"
     }
   ],
-  "build_hash": "e4630d365df9f4da257b893e39770d47",
+  "build_hash": "cfb3aa4e95785eaf244dac88f8c28307",
   "prefix": "sjjb-",
   "version": "2.0.1",
   "font-family": "sjjbicons"

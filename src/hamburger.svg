@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="580"
+   height="580"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="hamburger.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-13.816589"
+     inkscape:cy="129.62516"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="998"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-48.816589,32.298385)">
+    <path
+       id="flowRoot3192"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:NPSPICT3;-inkscape-font-specification:NPSPICT3"
+       d="m 562.40614,214.04906 -447.17911,0 c -11.47877,2e-4 -21.328363,4.34226 -29.548763,13.02617 -8.220648,8.68426 -12.330895,18.6743 -12.330803,29.97011 -9.2e-5,13.04621 4.110155,23.69252 12.330803,31.93894 8.2204,8.24671 18.069993,12.37001 29.548763,12.3699 l 447.17911,0 c 11.50314,1.1e-4 21.35897,-4.12319 29.56759,-12.3699 8.20736,-8.24642 12.31137,-18.89273 12.31198,-31.93894 -6.1e-4,-11.29581 -4.10462,-21.28585 -12.31198,-29.97011 -8.20862,-8.68391 -18.06445,-13.02597 -29.56759,-13.02617 l 0,0 z M 94.833469,349.60071 c -5.739466,60.80204 38.195201,93.37736 131.804111,97.72606 l 225.45046,0 c 93.60817,-4.3487 137.12931,-36.92401 130.56351,-97.72606 l -487.818081,0 z M 582.65155,167.11509 c 6.5658,-60.82824 -36.95534,-93.841065 -130.56351,-99.038635 l -225.45046,0 C 133.02867,73.274025 89.094003,106.28684 94.833469,167.11509 l 487.818081,0 z"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

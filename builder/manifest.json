@@ -30,6 +30,10 @@
       "name": "fastfood_pizza"
     },
     {
+      "code": "0xf10c",
+      "name": "hamburger"
+    },
+    {
       "code": "0xf100",
       "name": "ice_cream"
     },
@@ -50,7 +54,7 @@
       "name": "restaurant.2"
     }
   ],
-  "build_hash": "26e15289666b36422f36d5abbf932c26",
+  "build_hash": "7d7fbc364a2e0ee9165090735c6e730d",
   "prefix": "sjjb-",
   "version": "2.0.1",
   "font-family": "sjjbicons"
