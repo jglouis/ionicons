@@ -2,27 +2,27 @@
   "name": "SjjbIcons",
   "icons": [
     {
-      "code": "0xf106",
+      "code": "0xf105",
       "name": "bar"
     },
     {
-      "code": "0xf109",
-      "name": "biergarten"
+      "code": "0xf107",
+      "name": "bier"
     },
     {
-      "code": "0xf104",
+      "code": "0xf103",
       "name": "cafe"
     },
     {
-      "code": "0xf105",
+      "code": "0xf104",
       "name": "fastfood2"
     },
     {
-      "code": "0xf10a",
+      "code": "0xf106",
       "name": "fastfood_pizza"
     },
     {
-      "code": "0xf10c",
+      "code": "0xf101",
       "name": "hamburger"
     },
     {
@@ -30,11 +30,11 @@
       "name": "ice_cream"
     },
     {
-      "code": "0xf103",
+      "code": "0xf102",
       "name": "restaurant"
     }
   ],
-  "build_hash": "cfb3aa4e95785eaf244dac88f8c28307",
+  "build_hash": "7d7fbc364a2e0ee9165090735c6e730d",
   "prefix": "sjjb-",
   "version": "2.0.1",
   "font-family": "sjjbicons"

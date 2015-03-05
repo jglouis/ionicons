@@ -3,7 +3,7 @@
 
 .sjjbicons,
 .#{$ionicons-prefix}bar:before,
-.#{$ionicons-prefix}biergarten:before,
+.#{$ionicons-prefix}bier:before,
 .#{$ionicons-prefix}cafe:before,
 .#{$ionicons-prefix}fastfood2:before,
 .#{$ionicons-prefix}fastfood_pizza:before,
@@ -14,7 +14,7 @@
   @extend .ion;
 }
 .#{$ionicons-prefix}bar:before { content: $ionicon-var-bar; }
-.#{$ionicons-prefix}biergarten:before { content: $ionicon-var-biergarten; }
+.#{$ionicons-prefix}bier:before { content: $ionicon-var-bier; }
 .#{$ionicons-prefix}cafe:before { content: $ionicon-var-cafe; }
 .#{$ionicons-prefix}fastfood2:before { content: $ionicon-var-fastfood2; }
 .#{$ionicons-prefix}fastfood_pizza:before { content: $ionicon-var-fastfood_pizza; }
