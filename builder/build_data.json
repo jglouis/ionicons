@@ -2,39 +2,227 @@
   "name": "SjjbIcons",
   "icons": [
     {
-      "code": "0xf105",
-      "name": "bar"
+      "code": "0xf128",
+      "name": "android-atm"
     },
     {
-      "code": "0xf107",
-      "name": "bier"
+      "code": "0xf10a",
+      "name": "android-bakery"
     },
     {
-      "code": "0xf103",
-      "name": "cafe"
+      "code": "0xf12b",
+      "name": "android-bank2"
     },
     {
-      "code": "0xf104",
-      "name": "fastfood2"
+      "code": "0xf10d",
+      "name": "android-bar"
     },
     {
-      "code": "0xf106",
-      "name": "fastfood_pizza"
+      "code": "0xf113",
+      "name": "android-beer"
     },
     {
-      "code": "0xf101",
-      "name": "hamburger"
+      "code": "0xf12c",
+      "name": "android-book"
     },
     {
-      "code": "0xf100",
-      "name": "ice_cream"
+      "code": "0xf12e",
+      "name": "android-bus_stop"
     },
     {
-      "code": "0xf102",
-      "name": "restaurant"
+      "code": "0xf11c",
+      "name": "android-butcher"
+    },
+    {
+      "code": "0xf10c",
+      "name": "android-cafe"
+    },
+    {
+      "code": "0xf13b",
+      "name": "android-car_repair"
+    },
+    {
+      "code": "0xf13e",
+      "name": "android-car_share"
+    },
+    {
+      "code": "0xf122",
+      "name": "android-caravan_park"
+    },
+    {
+      "code": "0xf11a",
+      "name": "android-christian3"
+    },
+    {
+      "code": "0xf124",
+      "name": "android-cinema2"
+    },
+    {
+      "code": "0xf138",
+      "name": "android-college"
+    },
+    {
+      "code": "0xf11b",
+      "name": "android-dentist"
+    },
+    {
+      "code": "0xf119",
+      "name": "android-doctors"
+    },
+    {
+      "code": "0xf137",
+      "name": "android-drinkingtap"
+    },
+    {
+      "code": "0xf125",
+      "name": "android-embassy"
+    },
+    {
+      "code": "0xf12f",
+      "name": "android-emergency_phone"
+    },
+    {
+      "code": "0xf117",
+      "name": "android-fastfood"
+    },
+    {
+      "code": "0xf111",
+      "name": "android-firestation"
+    },
+    {
+      "code": "0xf129",
+      "name": "android-fountain"
+    },
+    {
+      "code": "0xf136",
+      "name": "android-fuel"
+    },
+    {
+      "code": "0xf12d",
+      "name": "android-gym"
+    },
+    {
+      "code": "0xf10f",
+      "name": "android-hamburger"
+    },
+    {
+      "code": "0xf133",
+      "name": "android-hospital"
+    },
+    {
+      "code": "0xf120",
+      "name": "android-hostel"
+    },
+    {
+      "code": "0xf112",
+      "name": "android-hotel2"
+    },
+    {
+      "code": "0xf13d",
+      "name": "android-ice_cream"
+    },
+    {
+      "code": "0xf11f",
+      "name": "android-information"
+    },
+    {
+      "code": "0xf110",
+      "name": "android-library2"
+    },
+    {
+      "code": "0xf118",
+      "name": "android-marketplace"
+    },
+    {
+      "code": "0xf109",
+      "name": "android-museum"
+    },
+    {
+      "code": "0xf131",
+      "name": "android-nursery"
+    },
+    {
+      "code": "0xf135",
+      "name": "android-parking"
+    },
+    {
+      "code": "0xf134",
+      "name": "android-parking_bicycle"
+    },
+    {
+      "code": "0xf13a",
+      "name": "android-parking_car"
+    },
+    {
+      "code": "0xf11d",
+      "name": "android-picnic"
+    },
+    {
+      "code": "0xf114",
+      "name": "android-pizza"
+    },
+    {
+      "code": "0xf130",
+      "name": "android-police2"
+    },
+    {
+      "code": "0xf13c",
+      "name": "android-post_box"
+    },
+    {
+      "code": "0xf115",
+      "name": "android-post_office"
+    },
+    {
+      "code": "0xf10e",
+      "name": "android-rental_bicycle"
+    },
+    {
+      "code": "0xf12a",
+      "name": "android-rental_car"
+    },
+    {
+      "code": "0xf127",
+      "name": "android-restaurant"
+    },
+    {
+      "code": "0xf121",
+      "name": "android-school"
+    },
+    {
+      "code": "0xf116",
+      "name": "android-swimming_outdoor"
+    },
+    {
+      "code": "0xf108",
+      "name": "android-taxi_rank"
+    },
+    {
+      "code": "0xf123",
+      "name": "android-theatre"
+    },
+    {
+      "code": "0xf139",
+      "name": "android-toilets"
+    },
+    {
+      "code": "0xf126",
+      "name": "android-university"
+    },
+    {
+      "code": "0xf132",
+      "name": "android-vending_machine"
+    },
+    {
+      "code": "0xf10b",
+      "name": "android-veterinary"
+    },
+    {
+      "code": "0xf11e",
+      "name": "android-waste_bin"
     }
   ],
-  "build_hash": "7d7fbc364a2e0ee9165090735c6e730d",
+  "build_hash": "81e2cb6d65b379362baea1356aecaa5a",
   "prefix": "sjjb-",
   "version": "2.0.1",
   "font-family": "sjjbicons"

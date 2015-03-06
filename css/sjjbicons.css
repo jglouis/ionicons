@@ -11,22 +11,116 @@
   Modified icons to fit ionicon’s grid from original.
 */
 @font-face { font-family: "SjjbIcons"; src: url("../fonts/sjjbicons.eot?v=2.0.1"); src: url("../fonts/sjjbicons.eot?v=2.0.1#iefix") format("embedded-opentype"), url("../fonts/sjjbicons.ttf?v=2.0.1") format("truetype"), url("../fonts/sjjbicons.woff?v=2.0.1") format("woff"), url("../fonts/sjjbicons.svg?v=2.0.1#Ionicons") format("svg"); font-weight: normal; font-style: normal; }
-.ion, .sjjbicons, .sjjb-bar:before, .sjjb-bier:before, .sjjb-cafe:before, .sjjb-fastfood2:before, .sjjb-fastfood_pizza:before, .sjjb-hamburger:before, .sjjb-ice_cream:before, .sjjb-restaurant:before { display: inline-block; font-family: "SjjbIcons"; speak: none; font-style: normal; font-weight: normal; font-variant: normal; text-transform: none; text-rendering: auto; line-height: 1; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+.ion, .sjjbicons, .sjjb-android-atm:before, .sjjb-android-bakery:before, .sjjb-android-bank2:before, .sjjb-android-bar:before, .sjjb-android-beer:before, .sjjb-android-book:before, .sjjb-android-bus_stop:before, .sjjb-android-butcher:before, .sjjb-android-cafe:before, .sjjb-android-car_repair:before, .sjjb-android-car_share:before, .sjjb-android-caravan_park:before, .sjjb-android-christian3:before, .sjjb-android-cinema2:before, .sjjb-android-college:before, .sjjb-android-dentist:before, .sjjb-android-doctors:before, .sjjb-android-drinkingtap:before, .sjjb-android-embassy:before, .sjjb-android-emergency_phone:before, .sjjb-android-fastfood:before, .sjjb-android-firestation:before, .sjjb-android-fountain:before, .sjjb-android-fuel:before, .sjjb-android-gym:before, .sjjb-android-hamburger:before, .sjjb-android-hospital:before, .sjjb-android-hostel:before, .sjjb-android-hotel2:before, .sjjb-android-ice_cream:before, .sjjb-android-information:before, .sjjb-android-library2:before, .sjjb-android-marketplace:before, .sjjb-android-museum:before, .sjjb-android-nursery:before, .sjjb-android-parking:before, .sjjb-android-parking_bicycle:before, .sjjb-android-parking_car:before, .sjjb-android-picnic:before, .sjjb-android-pizza:before, .sjjb-android-police2:before, .sjjb-android-post_box:before, .sjjb-android-post_office:before, .sjjb-android-rental_bicycle:before, .sjjb-android-rental_car:before, .sjjb-android-restaurant:before, .sjjb-android-school:before, .sjjb-android-swimming_outdoor:before, .sjjb-android-taxi_rank:before, .sjjb-android-theatre:before, .sjjb-android-toilets:before, .sjjb-android-university:before, .sjjb-android-vending_machine:before, .sjjb-android-veterinary:before, .sjjb-android-waste_bin:before { display: inline-block; font-family: "SjjbIcons"; speak: none; font-style: normal; font-weight: normal; font-variant: normal; text-transform: none; text-rendering: auto; line-height: 1; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
 
-.sjjb-bar:before { content: ""; }
+.sjjb-android-atm:before { content: ""; }
 
-.sjjb-bier:before { content: ""; }
+.sjjb-android-bakery:before { content: ""; }
 
-.sjjb-cafe:before { content: ""; }
+.sjjb-android-bank2:before { content: ""; }
 
-.sjjb-fastfood2:before { content: ""; }
+.sjjb-android-bar:before { content: ""; }
 
-.sjjb-fastfood_pizza:before { content: ""; }
+.sjjb-android-beer:before { content: ""; }
 
-.sjjb-hamburger:before { content: ""; }
+.sjjb-android-book:before { content: ""; }
 
-.sjjb-ice_cream:before { content: ""; }
+.sjjb-android-bus_stop:before { content: ""; }
 
-.sjjb-restaurant:before { content: ""; }
+.sjjb-android-butcher:before { content: ""; }
+
+.sjjb-android-cafe:before { content: ""; }
+
+.sjjb-android-car_repair:before { content: ""; }
+
+.sjjb-android-car_share:before { content: ""; }
+
+.sjjb-android-caravan_park:before { content: ""; }
+
+.sjjb-android-christian3:before { content: ""; }
+
+.sjjb-android-cinema2:before { content: ""; }
+
+.sjjb-android-college:before { content: ""; }
+
+.sjjb-android-dentist:before { content: ""; }
+
+.sjjb-android-doctors:before { content: ""; }
+
+.sjjb-android-drinkingtap:before { content: ""; }
+
+.sjjb-android-embassy:before { content: ""; }
+
+.sjjb-android-emergency_phone:before { content: ""; }
+
+.sjjb-android-fastfood:before { content: ""; }
+
+.sjjb-android-firestation:before { content: ""; }
+
+.sjjb-android-fountain:before { content: ""; }
+
+.sjjb-android-fuel:before { content: ""; }
+
+.sjjb-android-gym:before { content: ""; }
+
+.sjjb-android-hamburger:before { content: ""; }
+
+.sjjb-android-hospital:before { content: ""; }
+
+.sjjb-android-hostel:before { content: ""; }
+
+.sjjb-android-hotel2:before { content: ""; }
+
+.sjjb-android-ice_cream:before { content: ""; }
+
+.sjjb-android-information:before { content: ""; }
+
+.sjjb-android-library2:before { content: ""; }
+
+.sjjb-android-marketplace:before { content: ""; }
+
+.sjjb-android-museum:before { content: ""; }
+
+.sjjb-android-nursery:before { content: ""; }
+
+.sjjb-android-parking:before { content: ""; }
+
+.sjjb-android-parking_bicycle:before { content: ""; }
+
+.sjjb-android-parking_car:before { content: ""; }
+
+.sjjb-android-picnic:before { content: ""; }
+
+.sjjb-android-pizza:before { content: ""; }
+
+.sjjb-android-police2:before { content: ""; }
+
+.sjjb-android-post_box:before { content: ""; }
+
+.sjjb-android-post_office:before { content: ""; }
+
+.sjjb-android-rental_bicycle:before { content: ""; }
+
+.sjjb-android-rental_car:before { content: ""; }
+
+.sjjb-android-restaurant:before { content: ""; }
+
+.sjjb-android-school:before { content: ""; }
+
+.sjjb-android-swimming_outdoor:before { content: ""; }
+
+.sjjb-android-taxi_rank:before { content: ""; }
+
+.sjjb-android-theatre:before { content: ""; }
+
+.sjjb-android-toilets:before { content: ""; }
+
+.sjjb-android-university:before { content: ""; }
+
+.sjjb-android-vending_machine:before { content: ""; }
+
+.sjjb-android-veterinary:before { content: ""; }
+
+.sjjb-android-waste_bin:before { content: ""; }
 
 /*# sourceMappingURL=sjjbicons.css.map */

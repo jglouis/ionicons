@@ -2,22 +2,116 @@
 // --------------------------
 
 .sjjbicons,
-.#{$ionicons-prefix}bar:before,
-.#{$ionicons-prefix}bier:before,
-.#{$ionicons-prefix}cafe:before,
-.#{$ionicons-prefix}fastfood2:before,
-.#{$ionicons-prefix}fastfood_pizza:before,
-.#{$ionicons-prefix}hamburger:before,
-.#{$ionicons-prefix}ice_cream:before,
-.#{$ionicons-prefix}restaurant:before
+.#{$ionicons-prefix}android-atm:before,
+.#{$ionicons-prefix}android-bakery:before,
+.#{$ionicons-prefix}android-bank2:before,
+.#{$ionicons-prefix}android-bar:before,
+.#{$ionicons-prefix}android-beer:before,
+.#{$ionicons-prefix}android-book:before,
+.#{$ionicons-prefix}android-bus_stop:before,
+.#{$ionicons-prefix}android-butcher:before,
+.#{$ionicons-prefix}android-cafe:before,
+.#{$ionicons-prefix}android-car_repair:before,
+.#{$ionicons-prefix}android-car_share:before,
+.#{$ionicons-prefix}android-caravan_park:before,
+.#{$ionicons-prefix}android-christian3:before,
+.#{$ionicons-prefix}android-cinema2:before,
+.#{$ionicons-prefix}android-college:before,
+.#{$ionicons-prefix}android-dentist:before,
+.#{$ionicons-prefix}android-doctors:before,
+.#{$ionicons-prefix}android-drinkingtap:before,
+.#{$ionicons-prefix}android-embassy:before,
+.#{$ionicons-prefix}android-emergency_phone:before,
+.#{$ionicons-prefix}android-fastfood:before,
+.#{$ionicons-prefix}android-firestation:before,
+.#{$ionicons-prefix}android-fountain:before,
+.#{$ionicons-prefix}android-fuel:before,
+.#{$ionicons-prefix}android-gym:before,
+.#{$ionicons-prefix}android-hamburger:before,
+.#{$ionicons-prefix}android-hospital:before,
+.#{$ionicons-prefix}android-hostel:before,
+.#{$ionicons-prefix}android-hotel2:before,
+.#{$ionicons-prefix}android-ice_cream:before,
+.#{$ionicons-prefix}android-information:before,
+.#{$ionicons-prefix}android-library2:before,
+.#{$ionicons-prefix}android-marketplace:before,
+.#{$ionicons-prefix}android-museum:before,
+.#{$ionicons-prefix}android-nursery:before,
+.#{$ionicons-prefix}android-parking:before,
+.#{$ionicons-prefix}android-parking_bicycle:before,
+.#{$ionicons-prefix}android-parking_car:before,
+.#{$ionicons-prefix}android-picnic:before,
+.#{$ionicons-prefix}android-pizza:before,
+.#{$ionicons-prefix}android-police2:before,
+.#{$ionicons-prefix}android-post_box:before,
+.#{$ionicons-prefix}android-post_office:before,
+.#{$ionicons-prefix}android-rental_bicycle:before,
+.#{$ionicons-prefix}android-rental_car:before,
+.#{$ionicons-prefix}android-restaurant:before,
+.#{$ionicons-prefix}android-school:before,
+.#{$ionicons-prefix}android-swimming_outdoor:before,
+.#{$ionicons-prefix}android-taxi_rank:before,
+.#{$ionicons-prefix}android-theatre:before,
+.#{$ionicons-prefix}android-toilets:before,
+.#{$ionicons-prefix}android-university:before,
+.#{$ionicons-prefix}android-vending_machine:before,
+.#{$ionicons-prefix}android-veterinary:before,
+.#{$ionicons-prefix}android-waste_bin:before
 {
   @extend .ion;
 }
-.#{$ionicons-prefix}bar:before { content: $ionicon-var-bar; }
-.#{$ionicons-prefix}bier:before { content: $ionicon-var-bier; }
-.#{$ionicons-prefix}cafe:before { content: $ionicon-var-cafe; }
-.#{$ionicons-prefix}fastfood2:before { content: $ionicon-var-fastfood2; }
-.#{$ionicons-prefix}fastfood_pizza:before { content: $ionicon-var-fastfood_pizza; }
-.#{$ionicons-prefix}hamburger:before { content: $ionicon-var-hamburger; }
-.#{$ionicons-prefix}ice_cream:before { content: $ionicon-var-ice_cream; }
-.#{$ionicons-prefix}restaurant:before { content: $ionicon-var-restaurant; }
+.#{$ionicons-prefix}android-atm:before { content: $ionicon-var-android-atm; }
+.#{$ionicons-prefix}android-bakery:before { content: $ionicon-var-android-bakery; }
+.#{$ionicons-prefix}android-bank2:before { content: $ionicon-var-android-bank2; }
+.#{$ionicons-prefix}android-bar:before { content: $ionicon-var-android-bar; }
+.#{$ionicons-prefix}android-beer:before { content: $ionicon-var-android-beer; }
+.#{$ionicons-prefix}android-book:before { content: $ionicon-var-android-book; }
+.#{$ionicons-prefix}android-bus_stop:before { content: $ionicon-var-android-bus_stop; }
+.#{$ionicons-prefix}android-butcher:before { content: $ionicon-var-android-butcher; }
+.#{$ionicons-prefix}android-cafe:before { content: $ionicon-var-android-cafe; }
+.#{$ionicons-prefix}android-car_repair:before { content: $ionicon-var-android-car_repair; }
+.#{$ionicons-prefix}android-car_share:before { content: $ionicon-var-android-car_share; }
+.#{$ionicons-prefix}android-caravan_park:before { content: $ionicon-var-android-caravan_park; }
+.#{$ionicons-prefix}android-christian3:before { content: $ionicon-var-android-christian3; }
+.#{$ionicons-prefix}android-cinema2:before { content: $ionicon-var-android-cinema2; }
+.#{$ionicons-prefix}android-college:before { content: $ionicon-var-android-college; }
+.#{$ionicons-prefix}android-dentist:before { content: $ionicon-var-android-dentist; }
+.#{$ionicons-prefix}android-doctors:before { content: $ionicon-var-android-doctors; }
+.#{$ionicons-prefix}android-drinkingtap:before { content: $ionicon-var-android-drinkingtap; }
+.#{$ionicons-prefix}android-embassy:before { content: $ionicon-var-android-embassy; }
+.#{$ionicons-prefix}android-emergency_phone:before { content: $ionicon-var-android-emergency_phone; }
+.#{$ionicons-prefix}android-fastfood:before { content: $ionicon-var-android-fastfood; }
+.#{$ionicons-prefix}android-firestation:before { content: $ionicon-var-android-firestation; }
+.#{$ionicons-prefix}android-fountain:before { content: $ionicon-var-android-fountain; }
+.#{$ionicons-prefix}android-fuel:before { content: $ionicon-var-android-fuel; }
+.#{$ionicons-prefix}android-gym:before { content: $ionicon-var-android-gym; }
+.#{$ionicons-prefix}android-hamburger:before { content: $ionicon-var-android-hamburger; }
+.#{$ionicons-prefix}android-hospital:before { content: $ionicon-var-android-hospital; }
+.#{$ionicons-prefix}android-hostel:before { content: $ionicon-var-android-hostel; }
+.#{$ionicons-prefix}android-hotel2:before { content: $ionicon-var-android-hotel2; }
+.#{$ionicons-prefix}android-ice_cream:before { content: $ionicon-var-android-ice_cream; }
+.#{$ionicons-prefix}android-information:before { content: $ionicon-var-android-information; }
+.#{$ionicons-prefix}android-library2:before { content: $ionicon-var-android-library2; }
+.#{$ionicons-prefix}android-marketplace:before { content: $ionicon-var-android-marketplace; }
+.#{$ionicons-prefix}android-museum:before { content: $ionicon-var-android-museum; }
+.#{$ionicons-prefix}android-nursery:before { content: $ionicon-var-android-nursery; }
+.#{$ionicons-prefix}android-parking:before { content: $ionicon-var-android-parking; }
+.#{$ionicons-prefix}android-parking_bicycle:before { content: $ionicon-var-android-parking_bicycle; }
+.#{$ionicons-prefix}android-parking_car:before { content: $ionicon-var-android-parking_car; }
+.#{$ionicons-prefix}android-picnic:before { content: $ionicon-var-android-picnic; }
+.#{$ionicons-prefix}android-pizza:before { content: $ionicon-var-android-pizza; }
+.#{$ionicons-prefix}android-police2:before { content: $ionicon-var-android-police2; }
+.#{$ionicons-prefix}android-post_box:before { content: $ionicon-var-android-post_box; }
+.#{$ionicons-prefix}android-post_office:before { content: $ionicon-var-android-post_office; }
+.#{$ionicons-prefix}android-rental_bicycle:before { content: $ionicon-var-android-rental_bicycle; }
+.#{$ionicons-prefix}android-rental_car:before { content: $ionicon-var-android-rental_car; }
+.#{$ionicons-prefix}android-restaurant:before { content: $ionicon-var-android-restaurant; }
+.#{$ionicons-prefix}android-school:before { content: $ionicon-var-android-school; }
+.#{$ionicons-prefix}android-swimming_outdoor:before { content: $ionicon-var-android-swimming_outdoor; }
+.#{$ionicons-prefix}android-taxi_rank:before { content: $ionicon-var-android-taxi_rank; }
+.#{$ionicons-prefix}android-theatre:before { content: $ionicon-var-android-theatre; }
+.#{$ionicons-prefix}android-toilets:before { content: $ionicon-var-android-toilets; }
+.#{$ionicons-prefix}android-university:before { content: $ionicon-var-android-university; }
+.#{$ionicons-prefix}android-vending_machine:before { content: $ionicon-var-android-vending_machine; }
+.#{$ionicons-prefix}android-veterinary:before { content: $ionicon-var-android-veterinary; }
+.#{$ionicons-prefix}android-waste_bin:before { content: $ionicon-var-android-waste_bin; }
