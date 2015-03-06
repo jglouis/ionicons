@@ -1,10 +1,11 @@
 #!/bin/bash
 
-# $1 filename
-# $2 background fill
-# $3 background stroke
-# $4 forground
-# $5 new file
 
 
-sed "s/fill:#111111/fill:${2};/g" < $1 | sed "s/fill:#111;/fill:${2};/g" | sed "s/stroke:#eeeeee/stroke:${3};/g" | sed "s/stroke:#eee;/stroke:${3};/g" | sed "s/fill:white/fill:${4};/g" | sed "s/stroke:white/stroke:${4};/g" | sed "s/fill:#ffffff/fill:${4};/g" | sed "s/stroke:#ffffff/stroke:${4};/g" > "${5}"
+for f in *.svg
+do
+
+sed "s/fill:#111111/fill:none;/g" < $f | sed "s/fill:#111;/fill:none;/g" | sed "s/stroke:#eeeeee/stroke:none;/g" | sed "s/stroke:#eee;/stroke:none;/g" | sed "s/fill:white/fill:#000000;/g" | sed "s/stroke:white/stroke:#000000;/g" | sed "s/fill:#ffffff/fill:#000000;/g" | sed "s/stroke:#ffffff/stroke:#000000;/g" > $f
+
+
+done
