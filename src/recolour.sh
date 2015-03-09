@@ -9,8 +9,12 @@ sed "s/fill:#111111/fill:none;/g" < $f | sed "s/fill:#111;/fill:none;/g" | sed "
 
 rm $f
 
-rename 'y/_/-/' *.svg
-mv "$file" "${file:4}"
+mv "new_$f" "$f"
+
+
+
 
 
 done
+
+rename 'y/_/-/' *.svg
