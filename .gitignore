@@ -2,4 +2,5 @@ _site
 .sass-cache
 *.scssc
 *.swp
+*~
 sfnt2woff/
