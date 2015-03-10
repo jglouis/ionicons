@@ -60,6 +60,9 @@ This repo already comes with all the files built and ready to go, but can also b
 
     python ./builder/generate.py
 
+## Recolour script
+
+There is a recolour.sh script inside the src directory. It can be run to automate part of the work needed to adapt the sjjb svg sources.
 
 ## License
 
