@@ -2,75 +2,75 @@
   "name": "SjjbIcons",
   "icons": [
     {
-      "code": "0xf117",
+      "code": "0xf11a",
       "name": "atm"
     },
     {
-      "code": "0xf125",
+      "code": "0xf127",
       "name": "bakery"
     },
     {
-      "code": "0xf105",
+      "code": "0xf106",
       "name": "bank"
     },
     {
-      "code": "0xf11e",
+      "code": "0xf120",
       "name": "bar"
     },
     {
-      "code": "0xf10f",
+      "code": "0xf111",
       "name": "beer"
     },
     {
-      "code": "0xf10e",
+      "code": "0xf110",
       "name": "book"
     },
     {
-      "code": "0xf12b",
+      "code": "0xf12d",
       "name": "bus-stop"
     },
     {
-      "code": "0xf129",
+      "code": "0xf12b",
       "name": "butcher"
     },
     {
-      "code": "0xf10a",
+      "code": "0xf10c",
       "name": "cafe"
     },
     {
-      "code": "0xf11c",
+      "code": "0xf11e",
       "name": "car-repair"
     },
     {
-      "code": "0xf136",
+      "code": "0xf138",
       "name": "car-share"
     },
     {
-      "code": "0xf12a",
+      "code": "0xf12c",
       "name": "caravan"
     },
     {
-      "code": "0xf11a",
-      "name": "christian3"
+      "code": "0xf104",
+      "name": "christian"
     },
     {
-      "code": "0xf113",
-      "name": "cinema2"
+      "code": "0xf119",
+      "name": "cinema"
     },
     {
-      "code": "0xf130",
+      "code": "0xf132",
       "name": "college"
     },
     {
-      "code": "0xf115",
+      "code": "0xf117",
       "name": "dentist"
     },
     {
-      "code": "0xf135",
+      "code": "0xf137",
       "name": "doctors"
     },
     {
-      "code": "0xf123",
+      "code": "0xf125",
       "name": "drinkingtap"
     },
     {
@@ -78,7 +78,7 @@
       "name": "embassy"
     },
     {
-      "code": "0xf106",
+      "code": "0xf107",
       "name": "fastfood"
     },
     {
@@ -90,91 +90,91 @@
       "name": "fountain"
     },
     {
-      "code": "0xf114",
+      "code": "0xf116",
       "name": "fuel"
     },
     {
-      "code": "0xf10b",
+      "code": "0xf10d",
       "name": "gym"
     },
     {
-      "code": "0xf104",
+      "code": "0xf105",
       "name": "hamburger"
     },
     {
-      "code": "0xf12d",
+      "code": "0xf12f",
       "name": "hospital"
     },
     {
-      "code": "0xf11d",
+      "code": "0xf11f",
       "name": "hotel"
     },
     {
-      "code": "0xf12c",
+      "code": "0xf12e",
       "name": "hotel2"
     },
     {
-      "code": "0xf110",
+      "code": "0xf112",
       "name": "ice-cream"
     },
     {
-      "code": "0xf11f",
+      "code": "0xf121",
       "name": "information"
     },
     {
-      "code": "0xf11b",
+      "code": "0xf11d",
       "name": "library"
     },
     {
-      "code": "0xf126",
+      "code": "0xf128",
       "name": "marketplace"
     },
     {
-      "code": "0xf10d",
+      "code": "0xf10f",
       "name": "museum"
     },
     {
-      "code": "0xf124",
+      "code": "0xf126",
       "name": "nursery"
     },
     {
-      "code": "0xf118",
+      "code": "0xf11b",
       "name": "parking"
     },
     {
-      "code": "0xf111",
+      "code": "0xf113",
       "name": "parking-bicycle"
     },
     {
-      "code": "0xf112",
+      "code": "0xf114",
       "name": "parking-car"
     },
     {
-      "code": "0xf138",
+      "code": "0xf115",
       "name": "pharmacy"
     },
     {
-      "code": "0xf134",
+      "code": "0xf136",
       "name": "phone"
     },
     {
-      "code": "0xf107",
+      "code": "0xf109",
       "name": "picnic"
     },
     {
-      "code": "0xf127",
+      "code": "0xf129",
       "name": "pizza"
     },
     {
-      "code": "0xf137",
+      "code": "0xf108",
       "name": "police"
     },
     {
-      "code": "0xf10c",
+      "code": "0xf10e",
       "name": "police2"
     },
     {
-      "code": "0xf132",
+      "code": "0xf134",
       "name": "post-box"
     },
     {
@@ -182,55 +182,55 @@
       "name": "post-office"
     },
     {
-      "code": "0xf131",
+      "code": "0xf133",
       "name": "rental-bicycle"
     },
     {
-      "code": "0xf128",
+      "code": "0xf12a",
       "name": "rental-car"
     },
     {
-      "code": "0xf108",
+      "code": "0xf10a",
       "name": "restaurant"
     },
     {
-      "code": "0xf120",
+      "code": "0xf122",
       "name": "school"
     },
     {
-      "code": "0xf121",
+      "code": "0xf123",
       "name": "swimming-outdoor"
     },
     {
-      "code": "0xf122",
+      "code": "0xf124",
       "name": "taxi-rank"
     },
     {
-      "code": "0xf109",
+      "code": "0xf10b",
       "name": "theatre"
     },
     {
-      "code": "0xf116",
+      "code": "0xf118",
       "name": "toilets"
     },
     {
-      "code": "0xf133",
+      "code": "0xf135",
       "name": "university"
     },
     {
-      "code": "0xf12e",
+      "code": "0xf130",
       "name": "vending-machine"
     },
     {
-      "code": "0xf12f",
+      "code": "0xf131",
       "name": "veterinary"
     },
     {
-      "code": "0xf119",
+      "code": "0xf11c",
       "name": "waste-bin"
     }
   ],
-  "build_hash": "f61d8750ebe8b9369cff1083b84a4cf9",
+  "build_hash": "23a7a2a845cdeaf9e19f0ca8e75b10bf",
   "prefix": "sjjb-",
   "version": "2.0.1",
   "font-family": "sjjbicons"
