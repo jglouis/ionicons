@@ -14,8 +14,8 @@
    height="580"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.48.0 r9654"
-   sodipodi:docname="shopping_vendingmachine2.svg"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="vending-machine.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <metadata
      id="metadata10">
@@ -28,12 +28,12 @@
         <cc:license
            rdf:resource="http://web.resource.org/cc/PublicDomain" />
         <dc:language>en</dc:language>
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     inkscape:window-height="1002"
+     inkscape:window-height="997"
      inkscape:window-width="1278"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -45,9 +45,9 @@
      pagecolor="#ffffff"
      id="base"
      showgrid="false"
-     inkscape:zoom="0.03125"
-     inkscape:cx="-5142.3352"
-     inkscape:cy="-8834.4272"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="215.59329"
+     inkscape:cy="238.27924"
      inkscape:window-x="0"
      inkscape:window-y="24"
      inkscape:current-layer="svg2"
@@ -104,13 +104,6 @@
        inkscape:vp_x="0 : 151.79668 : 1"
        sodipodi:type="inkscape:persp3d" />
   </defs>
-  <g
-     id="g1327">
-    <path
-       d="M 66.275,1.768 C 24.94,1.768 1.704,23.139 1.704,66.804 L 1.704,516.927 C 1.704,557.771 22.598,579.156 63.896,579.156 L 515.92,579.156 C 557.227,579.156 578.149,558.84 578.149,516.927 L 578.149,66.804 C 578.149,24.203 557.227,1.768 514.627,1.768 C 514.624,1.768 66.133,1.625 66.275,1.768 z"
-       style="fill:none;;stroke:#eeeeee;stroke-width:3.40799999"
-       id="path1329" />
-  </g>
   <path
      style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;opacity:0.75;color:#000000;fill:#000000;;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:20;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
      d="m 347.15625,40.3125 c -10.69432,0.259341 -17.37321,11.177729 -15.5,21.25 0,12.614583 0,45.22917 0,57.84375 12.53176,-0.0607 25.06286,-0.18754 37.59375,-0.34375 0.18456,-14.69623 -0.47858,-29.500573 0.34375,-44.09375 1.24295,-5.663269 9.19277,-5.968442 12.02382,-1.212612 34.26775,27.344042 68.26697,55.130412 102.44148,82.473492 4.99676,2.5586 11.19203,9.008 6.6597,14.77037 -35.69604,28.94161 -71.4973,57.8111 -107.17586,86.73836 -3.4913,4.25554 -10.49687,8.46131 -15.19914,3.38664 -1.97517,-15.82567 -0.63598,-31.79738 -0.90625,-47.6875 -11.92708,0 -23.85417,0 -35.78125,0 0.12562,109.87212 -0.25083,199.76715 0.1875,309.625 1.26242,9.86773 11.7419,15.45616 21.125,13.78125 57.79653,-0.19144 115.63632,0.38031 173.40625,-0.28125 9.54593,-1.66542 14.71275,-11.86646 13.125,-21.03125 C 539.4375,361.98022 539.62507,208.42079 539.4063,54.875 538.65061,44.612978 527.90998,38.554172 518.18755,40.28125 461.17736,40.30217 404.1654,40.23946 347.1563,40.3125 z"

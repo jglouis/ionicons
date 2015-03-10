@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -14,9 +15,8 @@
    height="580"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.46"
-   sodipodi:docname="amenity_firestation.svg"
-   sodipodi:docbase="s:\Data\FacilityIcons"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="firestation.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <metadata
      id="metadata1976">
@@ -33,7 +33,7 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     inkscape:window-height="1003"
+     inkscape:window-height="997"
      inkscape:window-width="1400"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -47,10 +47,11 @@
      inkscape:zoom="0.44481281"
      inkscape:cx="1288.5636"
      inkscape:cy="384.03014"
-     inkscape:window-x="-4"
-     inkscape:window-y="-4"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
      inkscape:current-layer="svg2"
-     showgrid="false" />
+     showgrid="false"
+     inkscape:window-maximized="0" />
   <defs
      id="defs4">
     <inkscape:perspective
@@ -130,13 +131,6 @@
        sodipodi:type="inkscape:persp3d" />
   </defs>
   <g
-     id="g1327">
-    <path
-       d="M 66.275,1.768 C 24.94,1.768 1.704,23.139 1.704,66.804 L 1.704,516.927 C 1.704,557.771 22.6,579.156 63.896,579.156 L 515.92,579.156 C 557.227,579.156 578.149,558.842 578.149,516.927 L 578.149,66.804 C 578.149,24.203 557.227,1.768 514.628,1.768 C 514.624,1.768 66.133,1.625 66.275,1.768 z"
-       style="fill:none;;stroke:#eeeeee;stroke-width:3.40799999"
-       id="path1329" />
-  </g>
-  <g
      id="g2117"
      transform="matrix(1.1975036,0,0,1.1975036,80.128205,34.575832)"
      style="fill:#000000">
@@ -162,13 +156,13 @@
     </g>
   </g>
   <image
-     y="573.99469"
-     x="-1801.1931"
-     id="image3356"
-     height="190"
+     sodipodi:absref="/home/jglouis/Documents/ionicon/src/pastedpic_10102008_233747.png"
+     xlink:href="pastedpic_10102008_233747.png"
      width="239"
-     sodipodi:absref="U:\svn.openstreetmap.org\applications\share\map-icons\svg-twotone\pastedpic_10102008_233747.png"
-     xlink:href="pastedpic_10102008_233747.png" />
+     height="190"
+     id="image3356"
+     x="-1801.1931"
+     y="573.99469" />
   <path
      style="fill:#000000;;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      d="M 170.84645,479.71764 C 134.26479,459.08465 111.96923,410.84242 128.43193,338.74121 C 139.98073,288.16121 173.63315,225.7375 147.84207,173.75941 C 179.12805,195.38395 211.6556,246.80618 244.46049,304.88437 C 246.72251,242.07667 214.13127,200.92511 237.55918,115.09824 C 253.63467,221.27702 318.11863,227.8581 350.85571,324.43808 C 364.7804,279.02904 393.74644,264.08309 379.61117,151.33015 C 521.95367,345.72774 440.82571,414.78419 412.39237,484.31853 L 421.59417,387.70014 C 376.95048,516.74999 341.18167,540.55802 308.87272,569.43472 C 326.92995,508.85654 334.05033,448.27833 297.3705,387.70014 C 288.46535,487.16243 263.33162,466.46438 258.26309,546.43034 C 208.00879,508.50069 197.68748,469.5924 188.67484,406.10364 C 181.83766,413.53277 170.29289,444.58439 170.84645,479.71764 z"

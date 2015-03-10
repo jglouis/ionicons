@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -13,9 +14,8 @@
    height="580"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.46"
-   sodipodi:docname="amenity_atm.svg"
-   sodipodi:docbase="s:\Data\FacilityIcons"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="atm.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <metadata
      id="metadata2975">
@@ -25,14 +25,14 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-			  <cc:license
+        <cc:license
            rdf:resource="http://web.resource.org/cc/PublicDomain" />
         <dc:language>en</dc:language>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     inkscape:window-height="1005"
+     inkscape:window-height="997"
      inkscape:window-width="1280"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -47,9 +47,10 @@
      inkscape:cx="285.84646"
      inkscape:cy="302.63451"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="24"
      inkscape:current-layer="svg2"
-     showgrid="false" />
+     showgrid="false"
+     inkscape:window-maximized="0" />
   <defs
      id="defs4">
     <inkscape:perspective
@@ -60,13 +61,6 @@
        inkscape:persp3d-origin="290 : 193.33333 : 1"
        id="perspective2441" />
   </defs>
-  <g
-     id="g1327">
-    <path
-       d="M 66.275,1.768 C 24.94,1.768 1.704,23.139 1.704,66.804 L 1.704,516.927 C 1.704,557.771 22.599,579.156 63.896,579.156 L 515.92,579.156 C 557.227,579.156 578.149,558.841 578.149,516.927 L 578.149,66.804 C 578.149,24.203 557.227,1.768 514.628,1.768 C 514.624,1.768 66.133,1.625 66.275,1.768 z "
-       style="fill:none;stroke:#eee;stroke-width:3.40799999"
-       id="path1329" />
-  </g>
   <path
      style="opacity:0.75;fill:#000000;;fill-opacity:1;stroke:#000000;;stroke-width:35.84500122;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      d="M 103.97867,82.41299 L 103.97867,145.33701 L 216.3814,145.33701 C 224.15917,124.71544 229.09653,111.16532 229.42334,109.26998 L 420.41399,107.62293 L 435.00214,145.33701 L 504.61508,145.33701 L 504.61508,82.41299 L 103.97867,82.41299 z"
@@ -82,16 +76,6 @@
      d="M 242.69409,117.58802 C 241.09113,126.88411 120.35624,476.20649 120.35624,476.20649 L 524.19401,472.79401 L 401.65273,116.06864 L 242.69409,117.58802 z"
      id="path3243"
      sodipodi:nodetypes="ccccc" />
-  <path
-     sodipodi:nodetypes="ccccc"
-     id="path3163"
-     d="M 242.69409,117.58802 C 241.09113,126.88411 120.35624,476.20649 120.35624,476.20649 L 524.19401,472.79401 L 401.65273,116.06864 L 242.69409,117.58802 z"
-     style="opacity:0.1;fill:#000000;;fill-opacity:1;fill-rule:evenodd;stroke:#000000;;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-  <path
-     id="path3165"
-     d="M 227.90625,158.09375 L 187.53125,158.46875 C 185.9283,167.76484 65.21875,517.09375 65.21875,517.09375 L 469.03125,513.6875 L 453.4375,473.375 L 120.34375,476.21875 C 120.34375,476.21875 195.43768,243.83219 227.90625,158.09375 z"
-     style="opacity:0.1;fill:#000000;;fill-opacity:1;fill-rule:evenodd;stroke:#000000;;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     sodipodi:nodetypes="ccccccc" />
   <g
      id="g4372"
      transform="translate(-130.0802,122.26983)" />
