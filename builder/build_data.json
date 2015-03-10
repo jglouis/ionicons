@@ -150,6 +150,10 @@
       "name": "parking-car"
     },
     {
+      "code": "0xf138",
+      "name": "pharmacy"
+    },
+    {
       "code": "0xf134",
       "name": "phone"
     },
@@ -160,6 +164,10 @@
     {
       "code": "0xf127",
       "name": "pizza"
+    },
+    {
+      "code": "0xf137",
+      "name": "police"
     },
     {
       "code": "0xf10c",
@@ -222,7 +230,7 @@
       "name": "waste-bin"
     }
   ],
-  "build_hash": "4c7eb3f37306b20678aa43be30cdfa46",
+  "build_hash": "f61d8750ebe8b9369cff1083b84a4cf9",
   "prefix": "sjjb-",
   "version": "2.0.1",
   "font-family": "sjjbicons"

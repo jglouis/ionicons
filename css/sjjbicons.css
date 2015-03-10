@@ -11,7 +11,7 @@
   Modified icons to fit ionicon’s grid from original.
 */
 @font-face { font-family: "SjjbIcons"; src: url("../fonts/sjjbicons.eot?v=2.0.1"); src: url("../fonts/sjjbicons.eot?v=2.0.1#iefix") format("embedded-opentype"), url("../fonts/sjjbicons.ttf?v=2.0.1") format("truetype"), url("../fonts/sjjbicons.woff?v=2.0.1") format("woff"), url("../fonts/sjjbicons.svg?v=2.0.1#Ionicons") format("svg"); font-weight: normal; font-style: normal; }
-.ion, .sjjbicons, .sjjb-atm:before, .sjjb-bakery:before, .sjjb-bank:before, .sjjb-bar:before, .sjjb-beer:before, .sjjb-book:before, .sjjb-bus-stop:before, .sjjb-butcher:before, .sjjb-cafe:before, .sjjb-car-repair:before, .sjjb-car-share:before, .sjjb-caravan:before, .sjjb-christian3:before, .sjjb-cinema2:before, .sjjb-college:before, .sjjb-dentist:before, .sjjb-doctors:before, .sjjb-drinkingtap:before, .sjjb-embassy:before, .sjjb-fastfood:before, .sjjb-firestation:before, .sjjb-fountain:before, .sjjb-fuel:before, .sjjb-gym:before, .sjjb-hamburger:before, .sjjb-hospital:before, .sjjb-hotel:before, .sjjb-hotel2:before, .sjjb-ice-cream:before, .sjjb-information:before, .sjjb-library:before, .sjjb-marketplace:before, .sjjb-museum:before, .sjjb-nursery:before, .sjjb-parking:before, .sjjb-parking-bicycle:before, .sjjb-parking-car:before, .sjjb-phone:before, .sjjb-picnic:before, .sjjb-pizza:before, .sjjb-police2:before, .sjjb-post-box:before, .sjjb-post-office:before, .sjjb-rental-bicycle:before, .sjjb-rental-car:before, .sjjb-restaurant:before, .sjjb-school:before, .sjjb-swimming-outdoor:before, .sjjb-taxi-rank:before, .sjjb-theatre:before, .sjjb-toilets:before, .sjjb-university:before, .sjjb-vending-machine:before, .sjjb-veterinary:before, .sjjb-waste-bin:before { display: inline-block; font-family: "SjjbIcons"; speak: none; font-style: normal; font-weight: normal; font-variant: normal; text-transform: none; text-rendering: auto; line-height: 1; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+.ion, .sjjbicons, .sjjb-atm:before, .sjjb-bakery:before, .sjjb-bank:before, .sjjb-bar:before, .sjjb-beer:before, .sjjb-book:before, .sjjb-bus-stop:before, .sjjb-butcher:before, .sjjb-cafe:before, .sjjb-car-repair:before, .sjjb-car-share:before, .sjjb-caravan:before, .sjjb-christian3:before, .sjjb-cinema2:before, .sjjb-college:before, .sjjb-dentist:before, .sjjb-doctors:before, .sjjb-drinkingtap:before, .sjjb-embassy:before, .sjjb-fastfood:before, .sjjb-firestation:before, .sjjb-fountain:before, .sjjb-fuel:before, .sjjb-gym:before, .sjjb-hamburger:before, .sjjb-hospital:before, .sjjb-hotel:before, .sjjb-hotel2:before, .sjjb-ice-cream:before, .sjjb-information:before, .sjjb-library:before, .sjjb-marketplace:before, .sjjb-museum:before, .sjjb-nursery:before, .sjjb-parking:before, .sjjb-parking-bicycle:before, .sjjb-parking-car:before, .sjjb-pharmacy:before, .sjjb-phone:before, .sjjb-picnic:before, .sjjb-pizza:before, .sjjb-police:before, .sjjb-police2:before, .sjjb-post-box:before, .sjjb-post-office:before, .sjjb-rental-bicycle:before, .sjjb-rental-car:before, .sjjb-restaurant:before, .sjjb-school:before, .sjjb-swimming-outdoor:before, .sjjb-taxi-rank:before, .sjjb-theatre:before, .sjjb-toilets:before, .sjjb-university:before, .sjjb-vending-machine:before, .sjjb-veterinary:before, .sjjb-waste-bin:before { display: inline-block; font-family: "SjjbIcons"; speak: none; font-style: normal; font-weight: normal; font-variant: normal; text-transform: none; text-rendering: auto; line-height: 1; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
 
 .sjjb-atm:before { content: ""; }
 
@@ -87,11 +87,15 @@
 
 .sjjb-parking-car:before { content: ""; }
 
+.sjjb-pharmacy:before { content: ""; }
+
 .sjjb-phone:before { content: ""; }
 
 .sjjb-picnic:before { content: ""; }
 
 .sjjb-pizza:before { content: ""; }
+
+.sjjb-police:before { content: ""; }
 
 .sjjb-police2:before { content: ""; }
 
